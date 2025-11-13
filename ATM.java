@@ -4,7 +4,7 @@ public class ATM {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("=== Welcome to CCST ATM ==="); //wow amazing! TANGINA ANG ANGAS!!!
+        System.out.println("=== Welcome to CCST ATM ==="); //wow amazing
 
         boolean flag = true; //FLAG PARA SA LOGIN
 
@@ -126,3 +126,4 @@ public class ATM {
         }
     }
 }
+
